@@ -1,6 +1,1 @@
-test git 6
-<<<<<< HEAD
-=======
-install nginx 
-
->>>>>>> nginx
+test git merge
